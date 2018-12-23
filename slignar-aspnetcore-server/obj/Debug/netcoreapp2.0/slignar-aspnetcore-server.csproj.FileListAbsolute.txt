@@ -1,0 +1,11 @@
+/Users/billgauvey/source/signalr-demo/slignar-aspnetcore-server/slignar-aspnetcore-server/bin/Debug/netcoreapp2.0/slignar-aspnetcore-server.deps.json
+/Users/billgauvey/source/signalr-demo/slignar-aspnetcore-server/slignar-aspnetcore-server/bin/Debug/netcoreapp2.0/slignar-aspnetcore-server.runtimeconfig.json
+/Users/billgauvey/source/signalr-demo/slignar-aspnetcore-server/slignar-aspnetcore-server/bin/Debug/netcoreapp2.0/slignar-aspnetcore-server.runtimeconfig.dev.json
+/Users/billgauvey/source/signalr-demo/slignar-aspnetcore-server/slignar-aspnetcore-server/bin/Debug/netcoreapp2.0/slignar-aspnetcore-server.dll
+/Users/billgauvey/source/signalr-demo/slignar-aspnetcore-server/slignar-aspnetcore-server/bin/Debug/netcoreapp2.0/slignar-aspnetcore-server.pdb
+/Users/billgauvey/source/signalr-demo/slignar-aspnetcore-server/slignar-aspnetcore-server/obj/Debug/netcoreapp2.0/slignar-aspnetcore-server.csproj.CoreCompileInputs.cache
+/Users/billgauvey/source/signalr-demo/slignar-aspnetcore-server/slignar-aspnetcore-server/obj/Debug/netcoreapp2.0/slignar-aspnetcore-server.AssemblyInfoInputs.cache
+/Users/billgauvey/source/signalr-demo/slignar-aspnetcore-server/slignar-aspnetcore-server/obj/Debug/netcoreapp2.0/slignar-aspnetcore-server.AssemblyInfo.cs
+/Users/billgauvey/source/signalr-demo/slignar-aspnetcore-server/slignar-aspnetcore-server/obj/Debug/netcoreapp2.0/slignar-aspnetcore-server.dll
+/Users/billgauvey/source/signalr-demo/slignar-aspnetcore-server/slignar-aspnetcore-server/obj/Debug/netcoreapp2.0/slignar-aspnetcore-server.pdb
+/Users/billgauvey/source/signalr-demo/slignar-aspnetcore-server/slignar-aspnetcore-server/obj/Debug/netcoreapp2.0/slignar-aspnetcore-server.csprojAssemblyReference.cache

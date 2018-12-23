@@ -18,14 +18,11 @@ namespace slignaraspnetcoreserver
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddMvc();
-            // services.AddSignalR();
 
-            services.AddTransient<GaugeDatabaseSubscription>();
             // dependency injection
+            services.AddTransient<GaugeDatabaseSubscription>(); 
             services.AddDbContextFactory<GaugeContext>(ConnectionString);
             services.AddSingleton<IGaugeRepository, GaugeRepository>();
-            // services.AddSingleton<IDatabaseSubscription, GaugeDatabaseSubscription>();
-            // services.AddSingleton<IHubContext<GaugeHub>, HubContex<GaugeHub>();
 
             services.AddCors(options => options.AddPolicy("CorsPolicy", builder =>
             {
@@ -35,6 +32,7 @@ namespace slignaraspnetcoreserver
                     .AllowCredentials()
                     .WithOrigins("http://localhost:4200");
             }));
+
             services.AddSignalR();
         }
 
